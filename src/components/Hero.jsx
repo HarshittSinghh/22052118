@@ -1,6 +1,6 @@
 import React from 'react';
 
-export const Hero = ({ title = 'Welcome to My App', subtitle = 'This is a Tailwind CSS example' }) => {
+export const Hero = ({ title = 'Welcome to My App', subtitle = 'React based Social Meida Web Application' }) => {
   return (
     <div>
       <section className='bg-indigo-700 py-20 mb-4'>
