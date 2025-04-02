@@ -33,6 +33,36 @@ const Cards = () => {
           Explore More
         </button>
       </div>
+
+      <div className="max-w-sm rounded overflow-hidden shadow-lg bg-white p-6 card-2">
+        <div className="font-bold text-xl mb-2">Feed 4</div>
+        <p className="text-gray-700 text-base mb-4">
+         Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente voluptate esse ipsum corporis quam quis, eos vero porro ipsa nemo animi error non in omnis numquam adipisci atque dolore culpa!
+        </p>
+        <button className="bg-black text-white px-4 py-2 rounded-md hover:bg-indigo-600">
+          Explore More
+        </button>
+      </div>
+
+      <div className="max-w-sm rounded overflow-hidden shadow-lg bg-white p-6 card-2">
+        <div className="font-bold text-xl mb-2">Feed 5</div>
+        <p className="text-gray-700 text-base mb-4">
+         Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente voluptate esse ipsum corporis quam quis, eos vero porro ipsa nemo animi error non in omnis numquam adipisci atque dolore culpa!
+        </p>
+        <button className="bg-black text-white px-4 py-2 rounded-md hover:bg-indigo-600">
+          Explore More
+        </button>
+      </div>
+
+      <div className="max-w-sm rounded overflow-hidden shadow-lg bg-white p-6 card-2">
+        <div className="font-bold text-xl mb-2">Feed 6</div>
+        <p className="text-gray-700 text-base mb-4">
+         Lorem ipsum dolor sit amet consectetur adipisicing elit. Sapiente voluptate esse ipsum corporis quam quis, eos vero porro ipsa nemo animi error non in omnis numquam adipisci atque dolore culpa!
+        </p>
+        <button className="bg-black text-white px-4 py-2 rounded-md hover:bg-indigo-600">
+          Explore More
+        </button>
+      </div>
     </div>
   );
 };
